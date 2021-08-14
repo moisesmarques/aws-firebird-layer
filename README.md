@@ -1,5 +1,5 @@
 # aws-firebird-layer
-The layer with adp lib and drivers to connect to Firebird 
+The layer with fbd lib and drivers to connect to Firebird 
 
 
 How to use:
